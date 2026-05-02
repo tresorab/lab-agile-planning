@@ -18,8 +18,8 @@ assignees: ''
 ### Acceptance Criteria:
 
 
-'''gherkin
+```gherkin
 Given [some context]
-when [certain action is taken]
+When [certain action is taken]
 Then [the outcome of action is observed]
-'''
+```
